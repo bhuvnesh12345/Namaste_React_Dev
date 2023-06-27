@@ -40,6 +40,14 @@
 // so these bundlers are packages and we need package manager npm who can manages these all packages.
 
 
+//Meanwhile
+// we also add .gitignore file which will help us which code should not be commited to git
+// simply inside our project open the terminal
+// type echo ""> .gitignore
+// hit enter it will add the gitignore file into ur project this is indiect way
+// direct way is the go to project folder add the .giignore file 
+
+
 
 // npm -- it does not any official full forms but firstly it is used for node.js that is why generally called it Node Package Manager
 // so npm is package manager which will manage our package like parcel
